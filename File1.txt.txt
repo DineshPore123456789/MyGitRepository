@@ -1,8 +1,11 @@
 This is my First Git.......Welcome to git .....!!!!
 
-class Hellogit{
+class Hellogit
+
+	void showDate()
+{ syso(date show );
+}
 	public static void main(String arg[]){
 		System.out.println("hello");
 		}
 }
-}}}}}
