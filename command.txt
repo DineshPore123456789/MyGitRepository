@@ -1,0 +1,9 @@
+git config --global user.name "Dinesh pore"
+git config --global user.email "dinesh_pore@persistent.co.in"
+git config user.name
+git config --list
+git config --global core.editor notepad
+git init
+git status
+git add
+git commit -m
