@@ -2,7 +2,7 @@ This is my First Git.......Welcome to git .....!!!!
 
 class Hellogit{
 	public static void main(String arg[]){
-		System.out("hello");
+		System.out.println("hello");
 		}
 }
 }}}}}
