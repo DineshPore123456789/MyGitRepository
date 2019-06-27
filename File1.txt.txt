@@ -9,7 +9,7 @@ class Hellogit
 	public static void main(String arg[]){
 		HelloGit.HelloGit();
 		
-	 void myBigMethod(){
+	publiv static void  void myBigMethod(){
  		system.out.printlb("has method implementation");
 
      public static final void helloGit(String str){
