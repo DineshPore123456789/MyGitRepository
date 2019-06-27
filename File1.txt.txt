@@ -6,13 +6,12 @@ class Hellogit
 { syso(date show );
 }
 
-      void helloGit(){
+     static  void helloGit(){
 			system.out.println("hello git");
  			}
 	public static void main(String arg[]){
-		HelloGit obj=new HelloGit();
-		obj.hellogit();
-}
+		HelloGit.HelloGit();
+		
  void myBigMethod(){
  system.out.printlb("has method implementation");
 }
