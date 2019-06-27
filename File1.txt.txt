@@ -12,7 +12,7 @@ class Hellogit
 	public static void main(String arg[]){
 		HelloGit.HelloGit();
 		
- void myBigMethod(){
- system.out.printlb("has method implementation");
+	 void myBigMethod(){
+ 		system.out.printlb("has method implementation");
 }
 }
