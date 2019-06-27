@@ -5,7 +5,11 @@ class Hellogit
 	void showDate()
 { syso(date show );
 }
+
+      void helloGit(){
+			syso("hello git");
+ 			}
 	public static void main(String arg[]){
-		System.out.println("hello");
-		}
+		
+}
 }
