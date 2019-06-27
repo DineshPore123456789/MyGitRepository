@@ -13,4 +13,7 @@ class Hellogit
 		HelloGit obj=new HelloGit();
 		obj.hellogit();
 }
+ void myBigMethod(){
+ system.out.printlb("has method implementation");
+}
 }
