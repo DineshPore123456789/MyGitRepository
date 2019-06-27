@@ -6,11 +6,11 @@ class Hellogit
 { syso(date show );
 }
 
-      void helloGit(){
+     public static final void helloGit(String str){
 			system.out.println("hello git");
  			}
 	public static void main(String arg[]){
 		HelloGit obj=new HelloGit();
-		obj.hellogit();
+		obj.hellogit("Hello");
 }
 }
