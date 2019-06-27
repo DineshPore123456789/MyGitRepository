@@ -17,6 +17,7 @@ class Hellogit
  			}
 	public static void main(String arg[]){
 		HelloGit obj=new HelloGit();
+		system.out.println("hello git");
 		obj.hellogit("Hello");
 
 }
